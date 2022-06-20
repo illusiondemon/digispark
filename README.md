@@ -1,3 +1,15 @@
+<h1 align="center">
+[ Nahid Alam ]
+</h1>
+
+<h2 align="center">
+Firefox-Stealer
+</h2>
+<h2 align="center">
+<a href="https://github.com/illusiondemon"><img title="Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat"></a> 
+</p><br>
+
+
 ### Installation Instructions Linux:
 - At first download the arduino ide on your linux os using this command
 ```bash
