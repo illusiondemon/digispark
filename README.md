@@ -1,11 +1,10 @@
-### Why 0install ??
+### Installation Instructions:
 
-- Its Fast
-- It Can detect os architecture and download package compitable with it
-- It detects if package is installed or not if installed it skips
-- It usage github api to track the package update so it doesnt download outdated package
-- It Download all the package from real source
-- It doesnt use apt to install tools so tools can be downloaded and installed in any distro
+- First download the appropriate Arduino package at the Arduino.cc website: https://www.arduino.cc/en/Main/Software
+- If using Arduino 1.6.6 or higher and windows - you will need to download and install the drivers manually. Download, unzip and run “Install Drivers” (on 32bit systems) or “DPInst64” (on 64bit systems). If you get stuck, try following the steps shown in this YouTube video. The driver files are located here: https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip
+- Install or Unzip the Arduino application.
+- Run the Arduino application.
+- In the Arduino application go to the “File” menu and select “Preferences”
 
 # :heavy_check_mark:Additional Boards Manager
 ```bash
