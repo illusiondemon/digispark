@@ -1,3 +1,9 @@
+### Installation Instructions Linux:
+- At first download the arduino ide on your linux os using this command
+```bash
+sudo apt install arduino -y
+```
+<br>
 ### Installation Instructions Windows:
 
 - First download the appropriate Arduino package at the Arduino.cc website: https://www.arduino.cc/en/Main/Software
