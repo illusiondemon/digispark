@@ -17,3 +17,11 @@ sudo apt install arduino -y
 http://digistump.com/package_digistump_index.json
 ```
 <br>
+ <h5 align="center">Screen Shot<h5>
+<p align="center">
+  <img alt="Layout" src="https://user-images.githubusercontent.com/88379378/174564168-9a7d250e-3f64-48d4-9b06-cfe422cd4b84.gif">
+</p>
+ <h5 align="center">Screen Shot<h5>
+<p align="center">
+  <img alt="Layout" src="https://user-images.githubusercontent.com/88379378/174564350-0bcf1f85-602e-4560-8f04-707e8b5bfeb6.jpg">
+</p>
